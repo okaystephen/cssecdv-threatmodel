@@ -19,7 +19,7 @@
                 "height": 100
               },
               "position": {
-                "x": 43,
+                "x": 42,
                 "y": 187
               },
               "angle": 0,
@@ -39,26 +39,25 @@
               }
             },
             {
-              "type": "tm.Actor",
+              "type": "tm.Store",
               "size": {
                 "width": 160,
                 "height": 80
               },
               "position": {
-                "x": 591,
-                "y": 18
+                "x": 424,
+                "y": 314
               },
               "angle": 0,
-              "id": "2c0c53d6-ac6c-4620-aa77-862bfc6419ba",
-              "z": 2,
+              "id": "0c9610e8-072a-413f-b1bc-804bcb07cc0e",
+              "z": 3,
               "hasOpenThreats": false,
-              "outOfScope": false,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "kyu"
+                  "text": "store 2"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -72,23 +71,23 @@
                 "id": "38e4650b-d84a-4533-8c10-ea3dfa83df42"
               },
               "target": {
-                "id": "2c0c53d6-ac6c-4620-aa77-862bfc6419ba"
+                "id": "0c9610e8-072a-413f-b1bc-804bcb07cc0e"
               },
               "vertices": [],
-              "id": "80f6e081-8ac7-4358-9868-369c8d692028",
+              "id": "4b995b08-ce61-4e30-a4cd-22392111c283",
               "labels": [
                 {
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 2",
+                      "text": "flow 3",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 3,
+              "z": 4,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
@@ -98,6 +97,27 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 292,
+                "y": 185
+              },
+              "target": {
+                "x": 183,
+                "y": 349
+              },
+              "vertices": [
+                {
+                  "x": 344,
+                  "y": 321
+                }
+              ],
+              "id": "907234f8-af0c-45aa-a033-db7ede675ce1",
+              "z": 5,
+              "attrs": {}
             }
           ]
         },
