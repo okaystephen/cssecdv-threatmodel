@@ -20,7 +20,7 @@
               },
               "position": {
                 "x": 43,
-                "y": 188
+                "y": 187
               },
               "angle": 0,
               "id": "38e4650b-d84a-4533-8c10-ea3dfa83df42",
@@ -31,7 +31,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "process 0"
+                  "text": "<3"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -45,8 +45,8 @@
                 "height": 80
               },
               "position": {
-                "x": 315,
-                "y": 58
+                "x": 591,
+                "y": 18
               },
               "angle": 0,
               "id": "2c0c53d6-ac6c-4620-aa77-862bfc6419ba",
@@ -58,7 +58,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "actor 1"
+                  "text": "kyu"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -74,16 +74,7 @@
               "target": {
                 "id": "2c0c53d6-ac6c-4620-aa77-862bfc6419ba"
               },
-              "vertices": [
-                {
-                  "x": 224,
-                  "y": 207
-                },
-                {
-                  "x": 280,
-                  "y": 144
-                }
-              ],
+              "vertices": [],
               "id": "80f6e081-8ac7-4358-9868-369c8d692028",
               "labels": [
                 {
